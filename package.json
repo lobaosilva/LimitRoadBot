@@ -1,0 +1,17 @@
+{
+  "name": "limitroadbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LimitRoadBot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "node-fetch": "^3.3.2",
+    "sqlite3": "^5.1.7"
+  }
+}
